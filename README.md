@@ -113,7 +113,7 @@ Before you start, ensure you have these installed:
 
 ## Folder Structure
 
-'''
+```
 URL-Shortner/
 ├── backend/
 │   ├── src/  
@@ -139,7 +139,7 @@ URL-Shortner/
 |   ├── RootLayout.jsx      # Defines the common layout structure for the entire application (e.g., header, footer)
 |   ├── index.css           # Global CSS styles and Tailwind CSS directives
 |   ├── index.html          # The main HTML file that serves as the entry point for the web browser 
-'''
+```
 
 ## Acknowledgements
 
